@@ -1,16 +1,23 @@
-## Hi there 👋
+### Technologies I Work With 🚀
+### Programming Languages
+- Java, Python, JavaScript, TypeScript, C++
+- React, Angular, Spring Boot, Node.js
+- GraphQL, REST APIs
 
-<!--
-**sarojrout/sarojrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Expertise
+- **Frameworks & Tools**: TensorFlow, PyTorch, AWS SageMaker, Scikit-learn
+- **Algorithms & Techniques**: Gradient Descent, XGBoost, Neural Networks, SVM
+- **Applications**: Sentiment Analysis, Personalization Models, Predictive Analytics
+- **Large Language Models (LLMs)**: BERT, GPT-based models
 
-Here are some ideas to get you started:
+### DevOps & Cloud
+- AWS (S3, SageMaker, Lambda, EC2), GCP, Digital Ocean
+- Docker, Kubernetes, Jenkins, Argo CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Engineering
+- ETL Pipelines, Kafka-based Streaming, Apache Spark
+- MongoDB, MySQL, DynamoDB, Redis
+
+### Blockchain
+- Smart Contracts, Solidity, Web3.js
+- Ethereum, IPFS, MetaMask Integration
