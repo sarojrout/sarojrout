@@ -1,7 +1,7 @@
 ### Technologies I Work With 🚀
 ### Programming Languages
-- Java, Python, JavaScript, TypeScript, C++
-- React, Angular, Spring Boot, Node.js
+- Java, Python, JavaScript, TypeScript, Scala
+- React, Angular, Akka, Spring Boot, Node.js
 - GraphQL, REST APIs
 
 ### AI/ML Expertise
