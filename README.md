@@ -11,8 +11,8 @@
 - **Large Language Models (LLMs)**: BERT, GPT-based models
 
 ### DevOps & Cloud
-- AWS (S3, SageMaker, Lambda, EC2), GCP, Digital Ocean
-- Docker, Kubernetes, Jenkins, Argo CD
+- AWS (S3, SageMaker, Lambda, EC2, RDS, DynamoDB, AppSync), GCP, Digital Ocean
+- Docker, Kubernetes, Jenkins, Argo CD, Terraform
 
 ### Data Engineering
 - ETL Pipelines, Kafka-based Streaming, Apache Spark
