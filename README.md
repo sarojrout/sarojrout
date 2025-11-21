@@ -11,7 +11,7 @@
 - **Large Language Models (LLMs)**: BERT, GPT-based models, Cohere, Bedrock, claude, TinyLlama
 
 ### DevOps & Cloud
-- AWS (S3, SageMaker, Bedrock, Opensearch, Lambda, EC2, RDS, DynamoDB, AppSync), Terraform, GCP, Digital Ocean
+- AWS (S3, SageMaker, Bedrock, Opensearch, Lambda, EC2, RDS, DynamoDB, AppSync), GCP, Digital Ocean
 - Docker, Kubernetes, Jenkins, Argo CD, Terraform
 
 ### Data Engineering
