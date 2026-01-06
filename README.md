@@ -1,7 +1,7 @@
 ```markdown
 # Hi, I'm Saroj Kumar Rout 👋
 
-> Software Engineer at Intuit | Building AI-Powered Multi-Agent Systems | Python & TypeScript Enthusiast
+> Software Engineer | Building AI-Powered Multi-Agent Systems | Python & TypeScript Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-rout-34158831)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarojrout)
