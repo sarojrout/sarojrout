@@ -1,7 +1,6 @@
-```markdown
 # Hi, I'm Saroj Kumar Rout 👋
 
-> Software Engineer | Building AI-Powered Multi-Agent Systems | Python & TypeScript Enthusiast
+> Software Engineer | Building AI-Powered Multi-Agent Systems | Python, Java & TypeScript Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-rout-34158831)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarojrout)
@@ -76,17 +75,98 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
 
-<!-- GitHub Stats Card -->
+### 🤖 Multi-Agent Healthcare Concierge
+**AI-powered healthcare assistant using Google ADK**
+
+- Multi-agent architecture with intelligent routing (AgentTool pattern)
+- Sequential workflows for complex health analysis (SequentialAgent)
+- Real-time streaming with Server-Sent Events
+- Integration with Vertex AI, Supabase, and OpenAI APIs
+- [🔗 Repository](https://github.com/sarojrout/chronic-healthcare-concierge) (if public)
+
+**Tech Stack:** Python, Google ADK, FastAPI, OpenAI, Vertex AI, Supabase, React
+
+---
+
+### 📱 Flutter Firebase Mobile App
+**Cross-platform mobile application with Firebase integration**
+
+- Flutter 
+- Real-time data synchronization with Firebase
+- Authentication and user management
+- [🔗 IOS App](https://apps.apple.com/us/app/flexflier/id6450644602)
+- [🔗 Android App](https://play.google.com/store/apps/details?id=com.flexflier.FlexFlier&hl=en_US)
+
+**Tech Stack:** Flutter, Dart, java, Spring Boot, Angular, Firebase
+
+---
+
+### 🔄 Spring Boot + Couchbase + Kafka
+**Complete microservices suite**
+
+- Spring Boot backend with Couchbase database
+- Kafka for event streaming and messaging
+- RESTful API design
+- [🔗 Repository](https://github.com/sarojrout/spring-tutorial)
+
+**Tech Stack:** Java, Spring Boot, Couchbase, Kafka
+
+---
+
+### 📊 Twitter Sentiment Analysis
+**Real-time sentiment analysis using Spark Streaming**
+
+- Spark Streaming for real-time data processing
+- Scala-based implementation
+- Twitter API integration
+
+**Tech Stack:** Scala, Apache Spark, Twitter API
+
+---
+
+## 📝 Latest Blog Posts / Articles
+
+<!-- If you have a blog, add links here -->
+- [Building Multi-Agent AI Systems with Google ADK](https://medium.com/@sarojkumar.rout/why-google-adks-agenttool-eliminates-a-common-multi-agent-development-friction-b0cc6e5e6099)
+- [SequentialAgent vs AgentTool: When to Use Each Pattern](https://medium.com/@yourusername) *(Coming soon)*
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 Building production-ready multi-agent AI systems
+- 📚 Contributing to open-source AI agent frameworks
+- 🚀 Optimizing agent orchestration patterns
+- 📖 Writing technical articles and documentation
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saroj-rout-34158831)
+
+---
+
+## 💡 Fun Facts
+
+- 🎯 Love building stuff that solves real-world problems
+- 🏃 Active contributor to open-source projects
+- 📚 Always learning new technologies and frameworks
+
+---
+
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarojrout&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarojrout&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+### ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=sarojrout&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🙌
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarojrout&color=blueviolet&style=flat-square)
 
 </div>
+
