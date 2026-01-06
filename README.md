@@ -80,6 +80,18 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 
 ---
 
+### 🏢 Big Tech
+- **Intuit** - Software Engineer (Current)
+- **Adobe** - Software Engineer
+- **AWS** - Software Engineer
+
+### 🚀 Founder/Entrepreneur
+- **Sandora** - Founder
+- **Flexflier** - Founder
+- **MedicLedger** - Founder
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🤖 Multi-Agent Healthcare Concierge
