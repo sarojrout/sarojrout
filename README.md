@@ -87,7 +87,7 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 - Sequential workflows for complex health analysis (SequentialAgent)
 - Real-time streaming with Server-Sent Events
 - Integration with Vertex AI, Supabase, and OpenAI APIs
-- [🔗 Repository](https://github.com/sarojrout/chronic-healthcare-concierge) (if public)
+- [🔗 Repository](https://github.com/sarojrout/chronic-healthcare-agent)
 
 **Tech Stack:** Python, Google ADK, FastAPI, OpenAI, Vertex AI, Supabase, React
 
