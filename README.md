@@ -121,8 +121,8 @@ Active contributor to Google's Agent Development Kit, focusing on multi-agent re
 
 ### 🚀 Founder/Entrepreneur
 - **Sandora** - Founder
-- **Flexflier** - Founder
-- **MedicLedger** - Founder
+- **[Flexflier](https://flexflier.com/)** - Founder
+- **[MedicLedger](https://medicledger.com/)** - Founder
 
 ---
 
