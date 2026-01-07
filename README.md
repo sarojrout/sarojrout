@@ -1,6 +1,6 @@
 # Hi, I'm Saroj Kumar Rout 👋
 
-> Software Engineer | Building AI-Powered Multi-Agent Systems | Python, Java & TypeScript Enthusiast
+> Software Engineer | Building AI-Powered Multi-Agent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-rout-34158831)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarojrout)
@@ -174,14 +174,6 @@ Active contributor to Google's Agent Development Kit, focusing on multi-agent re
 - Twitter API integration
 
 **Tech Stack:** Scala, Apache Spark, Twitter API
-
----
-
-## 📝 Latest Blog Posts / Articles
-
-<!-- If you have a blog, add links here -->
-- [Building Multi-Agent AI Systems with Google ADK](https://medium.com/@sarojkumar.rout/why-google-adks-agenttool-eliminates-a-common-multi-agent-development-friction-b0cc6e5e6099)
-- [SequentialAgent vs AgentTool: When to Use Each Pattern](https://medium.com/@yourusername) *(Coming soon)*
 
 ---
 
