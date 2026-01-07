@@ -80,10 +80,44 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 
 ---
 
-### 🏢 Big Tech
-- **Intuit** - Software Engineer (Current)
+
+## 🌱 Open Source Contributions
+
+<div align="center">
+
+[![Contribution Stats](https://img.shields.io/badge/Contributions-9+_PRs-blue?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged)
+[![Google ADK](https://img.shields.io/badge/Google_ADK-Contributor-green?style=for-the-badge&logo=google)](https://github.com/google/adk-python)
+
+</div>
+
+### 🤖 Google ADK Python ([google/adk-python](https://github.com/google/adk-python))
+
+Active contributor to Google's Agent Development Kit, focusing on multi-agent resilience patterns, error handling, and developer experience improvements.
+
+<details>
+<summary><b>View all contributions (10 PRs)</b></summary>
+
+#### 🐛 Bug Fixes & Improvements
+- [#3991](https://github.com/google/adk-python/pull/3991) - Fix/Event streaming propagation from AgentTool sub-agents to Runner
+- [#3848](https://github.com/google/adk-python/pull/3848) - Feat/streaming tools support on non live
+- [#3828](https://github.com/google/adk-python/pull/3828) - Feat/Adaptive Token Limit Management
+- [#3825](https://github.com/google/adk-python/pull/3825) - Fix/Add PDF support for Claude models
+- [#3734](https://github.com/google/adk-python/pull/3734) - Fix/web artifact metadata
+- [#3699](https://github.com/google/adk-python/pull/3699) - Fix: Handle empty message in LiteLLM response
+- [#3576](https://github.com/google/adk-python/pull/3576) - Fix/add validation for unique sub-agent names
+- [#3574](https://github.com/google/adk-python/pull/3574) - Samples/add hello_doctor health assessment agent
+- [#4086](https://github.com/google/adk-python/pull/4086) - Agent Tool Resilience Sample
+- [#4087](https://github.com/google/adk-python/pull/4087) - Feature Request: Built-in Support for Agent Tool Resilience
+
+</details>
+
+**View all my contributions:** [GitHub Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged) | [Google ADK Contributions](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged)
+
+---
+
+### 🏢 Big Tech Experience
+- **Intuit** - Software Engineer 
 - **Adobe** - Software Engineer
-- **AWS** - Software Engineer
 
 ### 🚀 Founder/Entrepreneur
 - **Sandora** - Founder
@@ -163,6 +197,7 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saroj-rout-34158831)
+- ✍️ [Medium](https://medium.com/@sarojkumar.rout) - Read my articles on AI, Multi-Agent Systems, and Software Engineering
 
 ---
 
