@@ -83,16 +83,15 @@ I enjoy tackling complex problems, building scalable systems, and contributing t
 
 ## 🌱 Open Source Contributions
 
-<div align="center">
+<div align="left">
 
-[![Contribution Stats](https://img.shields.io/badge/Contributions-9+_PRs-blue?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged)
+[![Contribution Stats](https://img.shields.io/badge/Contributions-30+_PRs-blue?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Asarojrout)
 [![Google ADK](https://img.shields.io/badge/Google_ADK-Contributor-green?style=for-the-badge&logo=google)](https://github.com/google/adk-python)
 
 </div>
 
 
-
-**View all my contributions:** [GitHub Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged) | [Google ADK Contributions](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Asarojrout+is%3Amerged)
+**View all my contributions:** [GitHub Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Asarojrout) | [Google ADK Contributions](https://github.com/google/adk-python/pulls?q=is%3Apr+author)
 
 ---
 
