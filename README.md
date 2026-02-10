@@ -118,10 +118,6 @@ Active contributor to Google's Agent Development Kit, focusing on multi-agent re
 - **Intuit** - Software Engineer 
 - **Adobe** - Software Engineer
 
-### 🚀 Founder/Entrepreneur
-- **Sandora** - Founder
-- **[Flexflier](https://flexflier.com/)** - Founder
-- **[MedicLedger](https://medicledger.com/)** - Founder
 
 ---
 
